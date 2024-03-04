@@ -1,11 +1,10 @@
-# QUANTIUM-DATA-ANALYTICS-VIRTUAL-INTERNSHIP-RETAIL-STORE-PERFORMANCE-ANALYSIS-AND-INSIGHTS-
+# QUANTIUM-DATA-ANALYTICS-VIRTUAL-INTERNSHIP-RETAIL-STORE-PERFORMANCE-ANALYSIS-AND-INSIGHTS
 
-# QUANTUM-FORAGE-TASK1
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Data Preprocessing](#Data Preprocessing)
+- [Data Preprocessing](#data-Preprocessing)
 - [Data Visualization](#data-visualization)
 - [Statistical Analysis](#statistical-analysis)
   - [Monthly Sales Experience of Each Store](#monthly-sales-experience-of-each-store)
