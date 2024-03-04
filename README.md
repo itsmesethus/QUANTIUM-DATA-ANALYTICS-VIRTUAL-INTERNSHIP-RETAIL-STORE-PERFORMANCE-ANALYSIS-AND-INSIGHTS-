@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Data Preprocessing](#Data Preprocessing)
 - [Data Visualization](#data-visualization)
 - [Statistical Analysis](#statistical-analysis)
   - [Monthly Sales Experience of Each Store](#monthly-sales-experience-of-each-store)
