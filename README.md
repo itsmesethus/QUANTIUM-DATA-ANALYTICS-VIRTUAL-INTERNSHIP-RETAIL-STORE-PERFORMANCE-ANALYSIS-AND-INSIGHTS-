@@ -19,8 +19,13 @@
 - [Conclusion (Task 3)](#conclusion-task-3)
 
 ## Introduction
+The objective of the dataset provided in the Quantium Data Analytics Virtual Internship is typically to analyze sales data from retail stores in order to gain insights into customer behavior, product performance, and overall store performance. By exploring the dataset, participants are expected to perform tasks such as:
 
-This project, Quantum-Forage-Task1, involves a detailed analysis of sales data from various stores. The goal is to understand and compare the performance of trial stores with control stores through both data visualization and statistical analysis.
+1. Identifying trends and patterns in sales data over time.
+2. Comparing the performance of different stores or product categories.
+3. Analyzing customer transaction data to understand purchasing behavior between the Trial Stores and Control Stores
+4. Implementing statistical analyses to test hypotheses and make data-driven decisions.
+5. Creating visualizations to communicate findings effectively.
 
 ## Data Visualization
 
