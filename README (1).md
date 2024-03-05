@@ -44,10 +44,10 @@
 ## TABLE OF CONTENTS:
 
 - [Introduction](#introduction)
-- [Data Preprocessing](#data-Preprocessing)
+- [Data Preprocessing](#data-preprocessing)
 - [Data Visualization](#data-visualization)
-- [Statistical Hypotheses Testing (A/B Testing)](#statistical-analysis)
-- [Insights](#Insights)
+- [Statistical Hypotheses Testing](#statistical-hypotheses-testing)
+- [Insights](#insights)
 
 ## Introduction:
 
@@ -80,7 +80,7 @@ In this section, we should ensure that the dataset provided should be in a good 
 * LinePlot for the Sales of the stores peaked based on the monthly basis.
 * Stacked Barplot for the Product Quantity pruchased by the customers.
 
-## Statistical Hypotheses Testing (A/B Testing)
+## Statistical Hypotheses Testing (A/B Testing):
 
    In this part lot of data preparations was actually taken part. Created a pivot table for PROD_QTY and STORE_NBR based on their Total Sales.Utilized groupby and merge commands to create the proper structure for the dataset to be acessed for Statistical tests. For the Stores Comparisons based on their revenue performance I have splitted the stores into two categories. They are ,
 
